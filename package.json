@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node app.js",
+    "maintenance": "node maintenance/maintenance.js",
     "dev": "nodemon app.js"
   },
   "dependencies": {
